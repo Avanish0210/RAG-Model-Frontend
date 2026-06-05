@@ -22,10 +22,10 @@ RAG Models/
 
 ## 1. Start the Backend
 
-Open a terminal in the backend folder:
+Download the backend
 
-```powershell
-cd "C:\Users\LENOVO\OneDrive\Documents\RAG Models\standardRag"
+```command
+git pull https://github.com/Avanish0210/RAG-Model.git
 ```
 
 ### Option A: Docker Compose
