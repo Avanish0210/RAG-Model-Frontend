@@ -25,7 +25,7 @@ RAG Models/
 Download the backend
 
 ```command
-git pull https://github.com/Avanish0210/RAG-Model.git
+git clone https://github.com/Avanish0210/RAG-Model.git
 ```
 
 ### Option A: Docker Compose
