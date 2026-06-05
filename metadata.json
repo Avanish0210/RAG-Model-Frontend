@@ -1,0 +1,6 @@
+{
+  "name": "Standard RAG Platform",
+  "description": "A classic, beautiful, and minimalist RAG search workspace for pristine PDF document ingestion, comparative version histories, and AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
